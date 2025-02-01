@@ -4,6 +4,6 @@
 <title> My First HTML Document </title>
 </head>
 <body>
-<h1>I succesfully created my first document</h1> 
+<h1>I successfully created my first document</h1> 
 </body>
 </html>
